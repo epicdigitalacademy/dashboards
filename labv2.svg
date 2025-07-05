@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="512px" height="82px" viewBox="-0.5 -0.5 512 82">
+  <g>
+    <!-- Left Node -->
+    <g>
+      <rect x="2" y="2" width="78" height="78" fill="none" stroke="none"/>
+      <path d="M80 16.77C80 25.19 62.49 32.04 40.75 32.04C19.51 32.04 2 25.19 2 16.77V64.71C2 73.14 19.51 80 40.75 80C62.49 80 80 73.14 80 64.71Z" fill="#036897" stroke="#ffffff" stroke-width="2"/>
+      <path d="M43.39 8.32L55.6 5.16V10.44L52.41 9.9L46.57 14.65L40.75 13.6L47.11 8.86Z
+               M49.23 22.55L47.11 17.81L57.71 15.71L56.12 17.29L74.17 20.45L69.92 23.61L51.89 20.45Z
+               M38.09 27.29L25.88 29.41V24.13L29.06 24.67L35.43 19.39L41.27 19.93L34.38 26.25Z
+               M32.24 10.96L35.43 15.71L23.24 18.35L25.88 16.23L6.78 13.07L11.55 9.38L29.6 12.54Z" fill="#ffffff"/>
+      <path d="M24.29 67.87H35.43L49.23 39.42H57.71" stroke="#000000" stroke-width="3.16" fill="none"/>
+      <path d="M55.07 34.15V44.16L61.44 39.42Z" fill="#000000"/>
+      <path d="M25.88 73.14V63.13L19.51 67.87Z" fill="#000000"/>
+      <path d="M25.88 73.68V63.65L19.51 68.4Z" fill="#ffffff"/>
+      <path d="M55.6 35.2V45.22L61.44 40.48Z" fill="#ffffff"/>
+      <path d="M25.88 44.68V34.68L19.51 39.42Z" fill="#000000"/>
+      <path d="M25.88 45.22V35.2L19.51 39.94Z" fill="#ffffff"/>
+      <path d="M58.26 67.87H48.7L34.38 39.42H25.35" stroke="#000000" stroke-width="3.16" fill="none"/>
+      <path d="M59.31 68.93H48.7L34.38 39.94H23.76M23.76 68.93H33.84L48.16 40.48H59.31" stroke="#ffffff" stroke-width="3.16" fill="none"/>
+      <path d="M55.07 63.13V73.14L61.44 68.4Z" fill="#000000"/>
+      <path d="M55.6 63.65V73.68L61.44 68.93Z" fill="#ffffff"/>
+    </g>
+
+    <!-- Connecting Line -->
+    <path d="M80 41H432" stroke="#000000" fill="none"/>
+
+    <!-- Right Node (Mirrored) -->
+    <g>
+      <rect x="432" y="2" width="78" height="78" fill="none" stroke="none"/>
+      <path d="M510 16.77C510 25.19 492.49 32.04 470.75 32.04C449.51 32.04 432 25.19 432 16.77V64.71C432 73.14 449.51 80 470.75 80C492.49 80 510 73.14 510 64.71Z" fill="#036897" stroke="#ffffff" stroke-width="2"/>
+      <path d="M473.39 8.32L485.6 5.16V10.44L482.41 9.9L476.57 14.65L470.75 13.6L477.11 8.86Z
+               M479.23 22.55L477.11 17.81L487.71 15.71L486.12 17.29L504.17 20.45L499.92 23.61L481.89 20.45Z
+               M468.09 27.29L455.88 29.41V24.13L459.06 24.67L465.43 19.39L471.27 19.93L464.38 26.25Z
+               M462.24 10.96L465.43 15.71L453.24 18.35L455.88 16.23L436.78 13.07L441.55 9.38L459.6 12.54Z" fill="#ffffff"/>
+      <path d="M454.29 67.87H465.43L479.23 39.42H487.71" stroke="#000000" stroke-width="3.16" fill="none"/>
+      <path d="M485.07 34.15V44.16L491.44 39.42Z" fill="#000000"/>
+      <path d="M455.88 73.14V63.13L449.51 67.87Z" fill="#000000"/>
+      <path d="M455.88 73.68V63.65L449.51 68.4Z" fill="#ffffff"/>
+      <path d="M485.6 35.2V45.22L491.44 40.48Z" fill="#ffffff"/>
+      <path d="M455.88 44.68V34.68L449.51 39.42Z" fill="#000000"/>
+      <path d="M455.88 45.22V35.2L449.51 39.94Z" fill="#ffffff"/>
+      <path d="M488.26 67.87H478.7L464.38 39.42H455.35" stroke="#000000" stroke-width="3.16" fill="none"/>
+      <path d="M489.31 68.93H478.7L464.38 39.94H453.76M453.76 68.93H463.84L478.16 40.48H489.31" stroke="#ffffff" stroke-width="3.16" fill="none"/>
+      <path d="M485.07 63.13V73.14L491.44 68.4Z" fill="#000000"/>
+      <path d="M485.6 63.65V73.68L491.44 68.93Z" fill="#ffffff"/>
+    </g>
+  </g>
+</svg>
